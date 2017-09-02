@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 To initialize:
 
 1) cd functions
@@ -2170,3 +2171,8 @@ To resolve this:
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/packages/react-scripts/template/README.md)
 >>>>>>> Initial commit
+=======
+Wheres My Money
+
+Powered by React, Firebase, Google Cloud Functions, Plaid, Google Calendar, and Google maps
+>>>>>>> Remove create react app boilerplate
