@@ -17,6 +17,7 @@ firebase-debug.log
 /build
 
 # misc
+*.log
 .DS_Store
 .env
 .env.local
