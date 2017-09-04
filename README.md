@@ -2176,6 +2176,7 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 =======
 [![CircleCI](https://circleci.com/gh/buttercutters/wheres-my-money.svg?style=svg)](https://circleci.com/gh/buttercutters/wheres-my-money)
 
+[![codecov](https://codecov.io/gh/buttercutters/wheres-my-money/branch/master/graph/badge.svg)](https://codecov.io/gh/buttercutters/wheres-my-money)
 
 >>>>>>> Add build status notification
 Wheres My Money
