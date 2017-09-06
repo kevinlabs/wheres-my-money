@@ -25,6 +25,7 @@ firebase-debug.log
 .env.test.local
 .env.production.local
 /src/*.env
+serviceAccountKey.json
 
 npm-debug.log*
 yarn-debug.log*
