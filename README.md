@@ -2182,4 +2182,13 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 Wheres My Money
 
 Powered by React, Firebase, Google Cloud Functions, Plaid, Google Calendar, and Google maps
+<<<<<<< HEAD
 >>>>>>> Remove create react app boilerplate
+=======
+
+
+To setup:
+
+1) npm install
+2) npm start
+>>>>>>> Remove functions folder and update readme
